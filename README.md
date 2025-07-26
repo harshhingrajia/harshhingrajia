@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshhingrajia&label=Profile%20views&color=0e75b6&style=flat" alt="harshhingrajia" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshhingrajia&theme=darkhub" alt="harshhingrajia" /></a> </p>
-
-
 ### 💼 Data Engineer | DevOps Enthusiast | Cloud Native Enthusiast
 
 I'm a Data Engineer with 5+ years of industry experience—2.5 years building data platforms, data warehouse, data migration, pipelines, and dashboards, and 3 years in DevOps with deep expertise in automation, CI/CD, and infrastructure as code. I specialize in crafting robust, scalable data systems using cloud-native tools across **GCP, AWS, and Azure**.
@@ -97,7 +94,7 @@ You can download or view my full resume here:
 
 ---
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshhingrajia&theme=darkhub" alt="harshhingrajia" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshhingrajia&show_icons=true&locale=en&layout=compact" alt="harshhingrajia" /></p>
 
