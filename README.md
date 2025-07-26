@@ -68,6 +68,8 @@ I'm a Data Engineer with 5+ years of industry experience—2.5 years building da
 - 🐳 **CKA - Certified Kubernetes Administrator**
 - 🧱 **CKAD - Certified Kubernetes Application Developer**
 
+🎖️ You can view all my certifications here: [My Credly Profile](https://www.credly.com/users/harsh-hingrajia)
+
 ---
 
 ### 📫 Contact Me
@@ -75,8 +77,7 @@ I'm a Data Engineer with 5+ years of industry experience—2.5 years building da
 - 📍 Rajkot, Gujarat, India  
 - ✉️ [hingrajiaharsh896@gmail.com](mailto:hingrajiaharsh896@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/harsh-hingrajia-582494148/)  
-- 💻 [GitHub](https://github.com/harshhingrajia)  
-- 🎖️ [Credly Certifications](https://www.credly.com/users/harsh-hingrajia)
+- 💻 [GitHub](https://github.com/harshhingrajia)
 
 ---
 
