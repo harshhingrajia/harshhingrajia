@@ -22,6 +22,16 @@ I'm a Data Engineer with 5+ years of industry experience—2.5 years building da
 
 ---
 
+### 📄 Resume
+
+Want a deeper look at my experience, skills, and projects?<br>
+You can download or view my full resume here:
+
+
+👉 [<b>Click to view my resume (PDF)</b>](./Documents/harsh_resume.pdf)
+
+---
+
 ### 🛠️ Skills
 
 #### 🚀 Cloud Platforms
@@ -78,16 +88,6 @@ I'm a Data Engineer with 5+ years of industry experience—2.5 years building da
 - ✉️ [hingrajiaharsh896@gmail.com](mailto:hingrajiaharsh896@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/harsh-hingrajia-582494148/)  
 - 💻 [GitHub](https://github.com/harshhingrajia)
-
----
-
-### 📄 Resume
-
-Want a deeper look at my experience, skills, and projects?<br>
-You can download or view my full resume here:
-
-
-👉 [<b>Click to view my resume (PDF)</b>](./Documents/harsh_resume.pdf)
 
 ---
 
