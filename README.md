@@ -100,4 +100,4 @@ You can download or view my full resume here:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshhingrajia&show_icons=true&locale=en" alt="harshhingrajia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshhingrajia&" alt="harshhingrajia" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=harshhingrajia&theme=tokyonight&hide_border=true" alt="harshhingrajia" /></p>
