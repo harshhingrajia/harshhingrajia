@@ -80,6 +80,16 @@ I'm a Data Engineer with 5+ years of industry experience—2.5 years building da
 
 ---
 
+### 📄 Resume
+
+Want a deeper look at my experience, skills, and projects?<br>
+You can download or view my full resume here:
+
+
+👉 [<b>Click to view my resume (PDF)</b>](./Documents/harsh_resume.pdf)
+
+---
+
 ### 📌 Fun Fact
 
 > I enjoy bridging the worlds of DevOps and Data Engineering to deliver impactful, efficient solutions!
