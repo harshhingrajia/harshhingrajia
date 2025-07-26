@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshhingrajia&label=Profile%20views&color=0e75b6&style=flat" alt="harshhingrajia" /> </p>
 
-### 💼 Data Engineer | DevOps Enthusiast | Cloud Native Enthusiast
+### 💼 Data Engineer with a DevOps Edge | Cloud-Native Specialist
 
 I'm a Data Engineer with 5+ years of industry experience—2.5 years building data platforms, data warehouse, data migration, pipelines, and dashboards, and 3 years in DevOps with deep expertise in automation, CI/CD, and infrastructure as code. I specialize in crafting robust, scalable data systems using cloud-native tools across **GCP, AWS, and Azure**.
 
